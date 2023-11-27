@@ -1,0 +1,33 @@
+Changelog
+------------------------------
+Shaula - Conky Theme
+[ Scorpio Themes Pack ] 
+
+by Closebox73
+------------------------------
+
+v1.0
+date : 23 Jul 2022
+-	Initial release
+
+
+v1.2
+date : 16 Sep 2022
+-	Add override_utf8_locale line
+-	Little extra line in scripts
+
+
+v1.5
+date : 21 Jan 2023
+-	Minimize archive size
+-	Change Day font
+-	Add Changelog file
+
+
+v2.0
+date : 01 Oct 2023
+-	Change name to be Shaula ( Internal purpose only )
+-	Add Fahrenheit version
+-	Add Media Status with playerctl
+-	Change font
+-	Some minor change
